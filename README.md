@@ -14,6 +14,12 @@ The algorithm assumes that the player will make no mistakes and calculates moves
 git clone https://github.com/goksuko/tic-tac-toe
 cd tic-tac-toe
 python play.py
+```
+
 *or*
+
+```shell
+git clone https://github.com/goksuko/tic-tac-toe
+cd tic-tac-toe
 python3 play.py
 ```
