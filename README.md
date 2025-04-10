@@ -13,7 +13,8 @@ The algorithm assumes that the player will make no mistakes and calculates moves
 ```shell
 git clone https://github.com/goksuko/tic-tac-toe
 cd tic-tac-toe
-python play.py
+sudo pip install -r /path/to/requirements.txt
+python3 play.py
 ```
 
 *or*
@@ -21,5 +22,6 @@ python play.py
 ```shell
 git clone https://github.com/goksuko/tic-tac-toe
 cd tic-tac-toe
-python3 play.py
+sudo pip install -r /path/to/requirements.txt
+python play.py
 ```

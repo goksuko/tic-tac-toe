@@ -1,5 +1,1 @@
 pygame
-sys
-time
-math
-copy
